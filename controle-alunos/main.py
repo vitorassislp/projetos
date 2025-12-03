@@ -56,4 +56,5 @@ def reprovados(turma):
         if i[3] <= 6:
             reprovados.append(i)
     for j, nome in enumerate(reprovados):
+
         print(f'{j+1} - {nome[0]}')
