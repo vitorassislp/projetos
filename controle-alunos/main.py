@@ -49,4 +49,5 @@ while True:
                 listaReprovados = reprovados(turma) 
 
     except Exception as erroExcecao:
+
         print(f'Erro de exceção: {erroExcecao}')
