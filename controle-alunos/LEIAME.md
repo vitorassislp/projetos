@@ -78,4 +78,5 @@ Requisitos para rodar:
 - Terminal (Prompt de Comando, PowerShell ou Terminal do Linux/Mac)
 - Nenhuma biblioteca externa é necessária
 
+
 Autor: Vitor Assis Leppaus
